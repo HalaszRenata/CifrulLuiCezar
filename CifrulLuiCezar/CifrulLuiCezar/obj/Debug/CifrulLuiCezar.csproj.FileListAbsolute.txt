@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulLuiCezar\CifrulLuiCezar\bin\Debug\CifrulLuiCezar.exe.config
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulLuiCezar\CifrulLuiCezar\bin\Debug\CifrulLuiCezar.exe
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulLuiCezar\CifrulLuiCezar\bin\Debug\CifrulLuiCezar.pdb
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulLuiCezar\CifrulLuiCezar\obj\Debug\CifrulLuiCezar.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulLuiCezar\CifrulLuiCezar\obj\Debug\CifrulLuiCezar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulLuiCezar\CifrulLuiCezar\obj\Debug\CifrulLuiCezar.exe
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulLuiCezar\CifrulLuiCezar\obj\Debug\CifrulLuiCezar.pdb
